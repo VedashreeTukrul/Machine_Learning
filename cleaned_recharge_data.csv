@@ -1,0 +1,17 @@
+user_id,Recharge_Amount,recharge_type,date,status,plan_name,Region,Bonus,Recharge_Flag
+101,23,prepaid,01-01-2025,success,Data Pack,East,2.3,FALSE
+102,26,postpaid,02-01-2025,success,Monthly Plan,West,2.6,FALSE
+103,99,prepaid,03-01-2025,failed,,Delhi,9.9,FALSE
+105,499,,04-01-2025,success,Super Saver,East,49.9,TRUE
+105,149,prepaid,05-01-2025,success,Data Pack,North,14.9,FALSE
+106,249,postpaid,06-01-2025,success,Monthly Plan,Delhi,24.9,FALSE
+106,249,postpaid,06-01-2025,success,Monthly Plan,North,24.9,FALSE
+107,50,prepaid,07-01-2025,,SMS Pack,East,5,FALSE
+108,399,postpaid,08-01-2025,success,Annual Lite,North,39.9,TRUE
+109,129,,,success,TalkTime,Delhi,12.9,FALSE
+110,299,postpaid,10-01-2025,success,,South,29.9,FALSE
+111,26,prepaid,11-01-2025,,Data Pack,North,2.6,FALSE
+112,599,postpaid,12-01-2025,success,Premium Plan,West,59.9,TRUE
+113,79,prepaid,13-01-2025,failed,SMS Pack,East,7.9,FALSE
+114,199,postpaid,,success,,North,19.9,FALSE
+115,259,prepaid,15-01-2025,success,Data Pack,West,25.9,FALSE
